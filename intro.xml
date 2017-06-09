@@ -1,0 +1,44 @@
+<Dialoghi>
+	<Dialogo id = "1">
+		<linea id="1" charachter = "Ana" mood = "Angry" type = "" >Sara' stato quello shamano da quattro soldi del mio ex-ragazzo!</linea>
+		<linea id="2" charachter = "Ana" mood = "Angry" type = "" >Come si e' permesso di rubarle?</linea>
+		<linea id="3" charachter = "Ana" mood = "Angry" type = "" >Non sa cosa si deve aspettare adesso, giuro che se le vedo te lo faccio mangiare Skall!</linea>
+		<linea id="4" charachter = "Skall" mood = "Worried" type = "">No Mia Signora, per favore, il mio stomaco e' delicato!</linea>
+		<linea id="5" charachter = "Ana" mood = "Angry" type = "">Non m'importa, lo mangerai lo stesso!</linea>
+		<linea id="6" charachter = "Ana" mood = "Normal" type = "">Mostrami ShamanBook forza,voglio vedere cosa sta facendo quel maiale.</linea>
+		<linea id="7" charachter = "Skall" mood = "Normal" type = "">Subito mia Signora...</linea>
+		<linea id="8" charachter = "Skall" mood = "Normal" type = "">C'e' un problema pero'...</linea>
+		<linea id="9" charachter = "Skall" mood = "Worried" type = "">Ecco...Non riesco ad accedere.</linea>
+		<linea id="10" charachter = "Ana" mood = "Angry" type = "">HAI DIMENTICATO DI NUOVO LA PASSWORD??</linea>
+		<linea id="11" charachter = "Ana" mood = "Angry" type = "">E' la QUINTA VOLTA IN QUESTO MESE!!</linea>
+		<linea id="12" charachter = "Skall" mood = "Worried" type = "">Non e' colpa mia, ogni volta uso password troppo complesse da ricordare...</linea>
+		<linea id="13" charachter = "Ana" mood = "Confused" type = "">E scriverla da qualche parte?!</linea>
+		<linea id="14" charachter = "Skall" mood = "Normal" type = "">Ehm...a dire il vero io non ho ne' braccia ne' mani...</linea>
+		<linea id="15" charachter = "Skall" mood = "Happy" type = "End"></linea>
+		
+	</Dialogo>
+	
+	<Dialogo id = "2">
+		<linea id="1" charachter = "Ana" mood = "Angry" type = "">Lo sapevo! Guarda dov'e' quel traditore vigliacco!</linea>
+		<linea id="2" charachter = "Ana" mood = "Angry" type = "">Ci siamo appena lasciati ed e' gia' a fare un pic-nic con un'altra!</linea>
+		<linea id="3" charachter = "Ana" mood = "Angry" type = "">Forza Skall, andiamo a fargli capire chi comanda.</linea>
+		<linea id="4" charachter = "Skall" mood = "Normal" type = "">Che palle...Non possiamo lasciare perdere?</linea>
+		<linea id="5" charachter = "Ana" mood = "Normal" type = "">Skall...Guarda che ti metto a digiuno per un mese...</linea>
+		<linea id="6" charachter = "Skall" mood = "Happy" type = "">ANDIAMO SUBITO MIA PADRONA!</linea>
+		<linea id="7" charachter = "Skall" mood = "Happy" type = "End"></linea>
+		
+	</Dialogo>
+	
+	<Dialogo id = "3">
+		<linea id="1" charachter = "Skall" mood = "Normal" type = "">Mia padrona, guardi a terra, qualcosa sta luccicando...</linea>
+		<linea id="2" charachter = "Ana" mood = "Angry" type = "">Quell’idiota non sa nemmeno legare come si deve un cristallo a un costrutto...</linea>
+		<linea id="3" charachter = "Ana" mood = "Angry" type = "">Non posso credere che sia riuscito a rubarmeli.</linea>
+		<linea id="4" charachter = "Ana" mood = "Angry" type = "End"></linea>
+		
+		
+	</Dialogo>
+	
+
+ 
+
+</Dialoghi>
