@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497102464,
+	"version": 1497104437,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -68,6 +68,11 @@
 		"images/flame-sheet0.png",
 		"images/flame-sheet1.png",
 		"images/flamestop-sheet0.png",
+		"images/flameboss-sheet0.png",
+		"images/flameboss-sheet1.png",
+		"images/flameboss-sheet2.png",
+		"images/firecrystal-sheet0.png",
+		"images/firecrystal-sheet1.png",
 		"images/sprite-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
