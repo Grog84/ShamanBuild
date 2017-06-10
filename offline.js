@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497081915,
+	"version": 1497087037,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -65,6 +65,9 @@
 		"images/triggerzone-sheet0.png",
 		"images/cavebkg.png",
 		"images/waterbkg-sheet0.png",
+		"images/flame-sheet0.png",
+		"images/flame-sheet1.png",
+		"images/flamestop-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
