@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497080757,
+	"version": 1497081915,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,8 @@
 		"images/hudtiles-sheet2.png",
 		"images/tileselection-sheet0.png",
 		"images/checkpoint-sheet0.png",
+		"images/checkpoint-sheet1.png",
+		"images/checkpoint-sheet2.png",
 		"images/rockinfinite-sheet0.png",
 		"images/spikes-sheet0.png",
 		"images/tilemap.png",

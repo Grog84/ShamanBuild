@@ -26889,6 +26889,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.AnimationFrameCount,
 	cr.plugins_.Spritefont2.prototype.cnds.CompareInstanceVar,
 	cr.plugins_.Spritefont2.prototype.acts.SetOpacity,
+	cr.system_object.prototype.acts.LoadState,
+	cr.system_object.prototype.acts.SaveState,
 	cr.plugins_.gamepad.prototype.exps.GamepadCount,
 	cr.system_object.prototype.acts.SetTimescale,
 	cr.system_object.prototype.acts.SetLayerVisible,
