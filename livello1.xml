@@ -12,7 +12,7 @@
 		<linea id="3" charachter = "Skall" mood = "Worried" type = "">No padrona la prego, NON PREMA X, farò indigestione un’altra volta!</linea>
 		<linea id="4" charachter = "Ana" mood = "Angry" type = "" >Tra tutti i bastoni dovevo trovarne proprio uno così capriccioso… </linea>
 		<linea id="5" charachter = "Ana" mood = "Angry" type = "" >Poche storie e aiutami a spostare la terra che ci blocca la strada.</linea>
-		<linea id="6" charachter = "Skall" mood = "Desperate" type = "">AAARGH NOO!</linea>		
+		<linea id="6" charachter = "Skall" mood = "Worried" type = "">AAARGH NOO!</linea>		
 		<linea id="7" charachter = "Skall" mood = "Normal" type = "End"></linea>
 		
 		
