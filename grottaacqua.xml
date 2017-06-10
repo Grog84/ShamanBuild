@@ -1,0 +1,27 @@
+<Dialoghi>
+	<Dialogo id = "1">
+	
+		<linea id ="1" charachter = "Ana" mood = "Happy" type =""> Padrona, io non ci penso proprio a fare il bagno, se vuole vada lei e mi abbandoni pure qui.</linea>
+		<linea id ="2" charachter = "Ana" mood = "Sad" type ="">Guarda, vorrei veramente farlo, però oggi proprio non posso.</linea>
+		<linea id ="3" charachter = "Ana" mood = "Happy" type =""> E questo lago ha qualcosa di sospetto… mi chiedo cosa avrà escogitato questa volta...</linea>
+		<linea id ="4" charachter = "Ana" mood = "Sad" type ="">Guardi! C’è qualcosa che si muove sotto la superficie dell’acqua!</linea>
+		<linea id ="5" charachter = "Ana" mood = "Happy" type =""> La prego, mi lasci qui!</linea>
+		<linea id ="6" charachter = "Ana" mood = "Sad" type ="">Ti imbavaglierei se solo non mi servissi per controllare gli elementi.</linea>
+		<linea id ="7" charachter = "Ana" mood = "Happy" type ="">Mia padrona mi lasci andare, ne ho abbastanza! Torno a casa!</linea>
+		<linea id ="8" charachter = "Ana" mood = "Sad" type ="End">Pure fifone sei! Stai buono che sicuramente dovremo affrontare qualcosa di grosso...</linea>
+	
+	</Dialogo>
+	
+	<Dialogo id = "2">
+	
+		<linea id ="1" charachter = "Ana" mood = "Happy" type ="">Non avrei mai creduto fosse in grado di creare un elementale del genere...</linea>
+		<linea id ="2" charachter = "Ana" mood = "Sad" type ="">É stata dura ma ce l’abbiamo fatta.</linea>
+		<linea id ="3" charachter = "Ana" mood = "Happy" type ="">Avrei bisogno di un goccio d’acqua, quella lotta mi ha fatto sudare...</linea>
+		<linea id ="4" charachter = "Ana" mood = "Sad" type ="">Non voglio neanche sapere come può sudare un teschio su un bastone...</linea>
+		<linea id ="5" charachter = "Ana" mood = "Happy" type ="">Lasciamo perdere, abbiamo recuperato quasi tutti i cristalli.</linea>
+		<linea id ="6" charachter = "Ana" mood = "Happy" type ="End">Tra non molto si pentirà amaramente di ciò che ha fatto.</linea>
+		
+	
+	</Dialogo>
+
+</Dialoghi>

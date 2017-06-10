@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497087037,
+	"version": 1497094006,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -86,6 +86,18 @@
 		"albero4.json",
 		"albero5.json",
 		"albero6.json",
-		"albero7.json"
+		"albero7.json",
+		"boss1.xml",
+		"boss2.xml",
+		"boss3.xml",
+		"foresta.xml",
+		"grottaacqua.xml",
+		"grottaroccia.xml",
+		"grottavento.xml",
+		"livello1.xml",
+		"livello2.xml",
+		"livello3.xml",
+		"outro1.xml",
+		"outro2.xml"
 	]
 }

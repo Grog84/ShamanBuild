@@ -1,0 +1,56 @@
+<Dialoghi>
+	<Dialogo id = "0">
+		<linea id="1" charachter = "Skall" mood = "Normal" type = "" >Non si ricorda nemmeno come ci si muove? É proprio arrugginita padrona...</linea>
+		<linea id="2" charachter = "Skall" mood = "Normal" type = "" >Muova lo stick a destra e sinistra per muoversi, verso il basso per abbassarsi.</linea>
+		<linea id="3" charachter = "Skall" mood = "Normal" type = "End"></linea>
+	
+	</Dialogo>
+	
+	<Dialogo id = "1">
+		<linea id="1" charachter = "Skall" mood = "Happy" type = "" >Almeno adesso potrà controllare nuovamente la terra, sarà tutto più facile.</linea>
+		<linea id="2" charachter = "Ana" mood = "Normal" type = "" >Esatto skall, e sai bene qual’è il tuo ruolo.</linea>
+		<linea id="3" charachter = "Skall" mood = "Worried" type = "">No padrona la prego, NON PREMA X, farò indigestione un’altra volta!</linea>
+		<linea id="4" charachter = "Ana" mood = "Angry" type = "" >Tra tutti i bastoni dovevo trovarne proprio uno così capriccioso… </linea>
+		<linea id="5" charachter = "Ana" mood = "Angry" type = "" >Poche storie e aiutami a spostare la terra che ci blocca la strada.</linea>
+		<linea id="6" charachter = "Skall" mood = "Desperate" type = "">AAARGH NOO!</linea>		
+		<linea id="7" charachter = "Skall" mood = "Normal" type = "End"></linea>
+		
+		
+	</Dialogo>
+	
+	<Dialogo id = "2">
+		<linea id="1" charachter = "Ana" mood = "Normal" >Sei imbarazzante Skall…</linea>
+		<linea id="2" charachter = "Ana" mood = "Normal" >Non so perchè non ti ho ancora abbandonato da qualche parte...</linea>
+		<linea id="3" charachter = "Skall" mood = "Worried" type = "">Perchè è sempre così cattiva con me?</linea>
+		<linea id="4" charachter = "Skall" mood = "Normal" type = "">Non è colpa mia se non posso contenere troppi elementi</linea>
+		<linea id="5" charachter = "Ana" mood = "Angry" type = "">É IL TUO UNICO COMPITO!</linea>
+		<linea id="6" charachter = "Skall" mood = "Worried" type = "">E ma io...</linea>
+		<linea id="7" charachter = "Ana" mood = "Normal" type = "">Lasciamo perdere, non ho tempo di cercare un bastone normale.</linea>
+		<linea id="8" charachter = "Skall" mood = "Worried" type = "">Fiù, meno male...</linea>
+		<linea id="9" charachter = "Skall" mood = "Normal" type = "End"></linea>
+	</Dialogo>
+	
+	<Dialogo id = "3">
+		<linea id="1" charachter = "Skall" mood = "Normal" type = "" >Dimenticavo, quando tiene premuto RT, entra in modalità posizionamento!</linea>
+		<linea id="2" charachter = "Skall" mood = "Normal" type = "" >Se poi preme lo stick può selezionare dove mettere il blocco e piazzarlo con X.</linea>
+		<linea id="3" charachter = "Skall" mood = "Normal" type = "" >Stia attenta perchè un blocco di terra che cade in testa fa sempre male.</linea>
+		<linea id="4" charachter = "Skall" mood = "Normal" type = "End"></linea>
+	
+	</Dialogo>
+	
+	<Dialogo id = "4">
+		<linea id="1" charachter = "Skall" mood = "Worried" type = "" >Che vento!</linea>
+		<linea id="2" charachter = "Ana" mood = "Normal" type = "" >Credo di sapere cosa ci aspetta, tieniti pronti Skall, non sarà semplice.</linea>
+		<linea id="3" charachter = "Skall" mood = "Sad" type = "End"></linea>
+			
+	</Dialogo>
+	
+	<Dialogo id = "5">
+		<linea id="1" charachter = "Skall" mood = "Desperate" type = "" >Mia padrona mi lasci andare, ne ho abbastanza! Torno a casa!</linea>
+		<linea id="2" charachter = "Ana" mood = "Normal" type = "" >Pure fifone sei! Stai buono che sicuramente dovremo affrontare qualcosa di grosso...</linea>
+		<linea id="3" charachter = "Skall" mood = "Sad" type = "End"></linea>
+			
+	</Dialogo>
+	
+</Dialoghi>
+

@@ -1,0 +1,24 @@
+<Dialoghi>
+	<Dialogo id = "1">
+		<linea id="1" charachter = "Ana" mood = "Happy" type = "" >Almeno adesso potrà controllare nuovamente la terra, sarà tutto più facile.</linea>
+		<linea id="2" charachter = "Ana" mood = "Sad" type = "" >Esatto skall, e sai bene qual’è il tuo ruolo.</linea>
+		<linea id="3" charachter = "Ana" mood = "Happy" type = "" >Poche storie e aiutami a spostare la terra che ci blocca la strada.</linea>
+		<linea id="4" charachter = "Skall" mood = "Sad" type = "End">AAARGH NOO!</linea>
+		
+		
+	</Dialogo>
+	
+	<Dialogo id = "2">
+		<linea id="1" charachter = "Ana" mood = "Happy" >Sei imbarazzante Skall…</linea>
+		<linea id ="2" charachter = "Ana" mood = "Sad" >Non so perchè non ti ho ancora abbandonato da qualche parte...</linea>
+		<linea id="3" charachter = "Ana" mood = "Happy" type = "">Perchè è sempre così cattiva con me?</linea>
+		<linea id="4" charachter = "Skall" mood = "Happy" type = "">Non è colpa mia se non posso contenere troppi elementi</linea>
+		<linea id="5" charachter = "Ana" mood = "Happy" type = "">É IL TUO UNICO COMPITO!</linea>
+		<linea id="6" charachter = "Skall" mood = "Happy" type = "">E ma io...</linea>
+		<linea id="6" charachter = "Skall" mood = "Happy" type = "">Lasciamo perdere, non ho tempo di cercare un bastone normale.</linea>
+		<linea id="6" charachter = "Skall" mood = "Happy" type = "End">Fiù, meno male...</linea>
+		
+	</Dialogo>
+	
+</Dialoghi>
+

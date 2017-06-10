@@ -1,0 +1,19 @@
+<Dialoghi>
+	<Dialogo id = "1">
+		<linea id="1" charachter = "Ana" mood = "Angry" type = "" >Traditore! Ladro! Come hai osato rubare i miei cristalli! E a quale scopo?</linea>
+		<linea id="2" charachter = "Ana" mood = "Angry" type = "" >Stavi dando fuoco a mezza foresta!</linea>
+		<linea id="3" charachter = "Manu" mood = "Normal" type = "" >Davvero Io non volevo…</linea>
+		<linea id="4" charachter = "Ana" mood = "Angry" type = "">Ah si? E allora perchè sei qui con questa ragazza?</linea>
+		<linea id="5" charachter = "Manu" mood = "Normal" type = "">Io… io volevo solo farmi notare da te, da quando ci siamo lasciati non sapevo più come parlarti</linea>
+		<linea id="6" charachter = "Manu" mood = "Normal" type = "">Volevo farti ingelosire per avere modo di rivederti...</linea>
+		<linea id="7" charachter = "Ana" mood = "Confused" type = "">Ma… Davvero?</linea>
+		<linea id="8" charachter = "Ana" mood = "Confused" type = "">Hai fatto tutto questo per un po’ di attenzione?</linea>
+		<linea id="9" charachter = "Manu" mood = "Normal" type = "">Sì…</linea>
+		<linea id="10" charachter = "Skall" mood = "Normal" type = "">Oddio non ci voglio credere...</linea>
+		<linea id="11" charachter = "Ana" mood = "Normal" type = "">Oh, mio caro...</linea>
+		<linea id="12" charachter = "Skall" mood = "Happy" type = "End"></linea>
+		
+	</Dialogo>
+	
+
+</Dialoghi>

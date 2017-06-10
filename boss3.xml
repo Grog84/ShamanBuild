@@ -1,0 +1,13 @@
+<Dialoghi>
+	<Dialogo id = "1">
+	
+		<linea id ="1" charachter = "Ana" mood = "Normal" type =""> Finalmente abbiamo recuperato tutti i cristalli.</linea>
+		<linea id ="2" charachter = "Ana" mood = "Angry" type ="">Appena lo trovo lo faccio fritto!</linea>
+		<linea id ="3" charachter = "Skall" mood = "Happy" type =""> Ah, finalmente si mangia…</linea>
+		<linea id ="4" charachter = "Ana" mood = "Normal" type =""> Per una volta sono d’accordo.</linea>
+		<linea id ="5" charachter = "Ana" mood = "Normal" type ="">Spero solo di non bruciacchiarlo troppo.</linea>
+		<linea id ="6" charachter = "Skall" mood = "Sad" type = "end"></linea>
+	
+	</Dialogo>
+	
+</Dialoghi>

@@ -1,0 +1,29 @@
+<Dialoghi>
+	
+	<Dialogo id = "1">
+	
+		<linea id ="1" charachter = "Ana" mood = "Confused" type ="">Non avrei mai creduto fosse in grado di creare un elementale del genere...</linea>
+		<linea id ="2" charachter = "Ana" mood = "Normal" type ="">É stata dura ma ce l’abbiamo fatta.</linea>
+		<linea id ="3" charachter = "Skall" mood = "Normal" type ="">Avrei bisogno di un goccio d’acqua, quella lotta mi ha fatto sudare...</linea>
+		<linea id ="4" charachter = "Ana" mood = "Confused" type ="">Non voglio neanche sapere come può sudare un teschio su un bastone...</linea>
+		<linea id ="5" charachter = "Ana" mood = "Normal" type ="">Lasciamo perdere, abbiamo recuperato quasi tutti i cristalli.</linea>
+		<linea id ="6" charachter = "Ana" mood = "Angry" type ="">Tra non molto si pentirà amaramente di ciò che ha fatto!</linea>
+		<linea id ="7" charachter = "Skall" mood = "Sad" type = "end"></linea>
+		
+	
+	</Dialogo>
+	
+	
+	<Dialogo id = "2"
+	
+		<linea id ="1" charachter = "Skall" mood = "Worried" type ="">Mia signora, lo vede anche lei il fumo in lontananza?</linea>
+		<linea id ="2" charachter = "Ana" mood = "Normal" type ="">Sì, spero proprio non sia quello che penso...</linea>
+		<linea id ="3" charachter = "Skall" mood = "Happy" type ="">Già, probabilmente qualcuno sta facendo un barbecue.</linea>
+		<linea id ="4" charachter = "Skall" mood = "Happy" type ="">Ci uniamo? É quasi ora di pranzo dopotutto</linea>
+		<linea id ="5" charachter = "Ana" mood = "Angry" type ="">...</linea>
+		<linea id ="6" charachter = "Skall" mood = "Worried" type ="">Ok, come non detto.</linea>
+		<linea id ="7" charachter = "Skall" mood = "Sad" type = "end"></linea>	
+	</Dialogo>
+	
+	
+</Dialoghi>

@@ -1,0 +1,27 @@
+<Dialoghi>
+	
+	<Dialogo id = "0">
+		<linea id ="1" charachter = "Skall" mood = "Desperate" type = "">AIUTOOOOO! </linea>
+		<linea id ="2" charachter = "Skall" mood = "Desperate" type = "">Perfavore prenda il cristallo almeno eliminerà il tornado!</linea>
+		<linea id ="3" charachter = "Ana" mood = "Normal" type ="">Lo so bene Skall.</linea>
+		<linea id ="4" charachter = "Skall" mood = "Normal" type = "End"></linea>	
+	</Dialogo>
+	
+	<Dialogo id = "1">
+		<linea id ="1" charachter = "Ana" mood = "Confused" type ="">Non credevo fosse in grado di creare cose del genere…</linea>
+		<linea id ="2" charachter = "Ana" mood = "Angry" type ="">MA É RIDICOLO CHE SIA ARRIVATO A TANTO!</linea>
+		<linea id ="3" charachter = "Ana" mood = "Angry" type ="">Solo per tenermi alla larga, non ho parole…
+		<linea id ="4" charachter = "Ana" mood = "Angry" type = "">Però sono sempre più determinata a fargliela pagare!</linea> 
+		<linea id ="5" charachter = "Ana" mood = "Normal" type = "">Forza Skall, andiamo avanti…</linea>
+		<linea id ="6" charachter = "Skall" mood = "Normal" type ="">Padrona, mi scusi, questa è la mia lettera di dimissioni, la prego di firmarla...</linea>
+		<linea id ="7" charachter = "Ana" mood = "Confused" type ="" >...</linea>
+		<linea id ="8" charachter = "Skall" mood = "Desperate" type ="" >NO PADRONA SONO SERIO PER FAVORE HO TROPPA PAURA!</linea>
+		<linea id ="9" charachter = "Ana" mood = "Angry" type ="">Ti imbavaglierei se solo non mi servissi per spostare gli elementi!</linea>
+		<linea id ="10" charachter = "Skall" mood = "Normal" type = "End"></linea>
+
+	
+	</Dialogo>
+	
+
+	
+</Dialoghi>

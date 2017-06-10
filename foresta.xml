@@ -1,0 +1,15 @@
+<Dialoghi>
+	<Dialogo id = "1">
+	
+		<linea id ="1" charachter = "Ana" mood = "Happy" type ="">Mia signora, lo vede anche lei il fumo in lontananza?</linea>
+		<linea id ="2" charachter = "Ana" mood = "Sad" type ="">Sì, spero proprio non sia quello che penso...</linea>
+		<linea id ="3" charachter = "Ana" mood = "Happy" type ="">Già, probabilmente qualcuno sta facendo un barbecue.</linea>
+		<linea id ="4" charachter = "Ana" mood = "Sad" type ="">Ci uniamo? É quasi ora di pranzo dopotutto</linea>
+		<linea id ="5" charachter = "Ana" mood = "Happy" type ="">...</linea>
+		<linea id ="6" charachter = "Ana" mood = "Sad" type ="">Ok, come non detto.</linea>
+		<linea id ="7" charachter = "Ana" mood = "Happy" type ="">Mia padrona mi lasci andare, ne ho abbastanza! Torno a casa!</linea>
+		<linea id ="8" charachter = "Ana" mood = "Sad" type ="End">Pure fifone sei! Stai buono che sicuramente dovremo affrontare qualcosa di grosso...</linea>
+	
+	</Dialogo>
+	
+</Dialoghi>

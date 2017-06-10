@@ -1,0 +1,42 @@
+<Dialoghi>
+
+	<Dialogo id = "1">
+		<linea id="1" charachter = "Ana" mood = "Happy" type = "" >Che vento!</linea>
+		<linea id="2" charachter = "Ana" mood = "Sad" type = "End" >Credo di sapere cosa ci aspetta, tieniti pronti Skall, non sarà semplice.</linea>
+	
+		
+		
+	</Dialogo>
+	
+	<Dialogo id = "2">
+		<linea id="1" charachter = "Ana" mood = "Happy" type ="" >Mia padrona mi lasci andare, ne ho abbastanza! Torno a casa!</linea>
+		<linea id ="2" charachter = "Ana" mood = "Sad" type ="End">Pure fifone sei! Stai buono che sicuramente dovremo affrontare qualcosa di grosso...</linea>
+		
+		
+	</Dialogo>
+	
+	<Dialogo id = "3">
+		<linea id ="1" charachter = "Ana" mood = "Happy" type = "End">AIUTOOOOO! </linea>
+			
+	</Dialogo>
+	
+	<Dialogo id = "4">
+		<linea id ="1" charachter = "Ana" mood = "Happy" type ="">Non credevo fosse in grado di creare cose del genere… MA É RIDICOLO CHE SIA ARRIVATO A TANTO! </linea>
+		<linea id ="2" charachter = "Ana" mood = "Sad" type ="">Solo per tenermi alla larga, non ho parole… Però sono sempre più determinata a fargliela pagare! Forza Skall, andiamo avanti…</linea>
+		<linea id ="3" charachter = "Ana" mood = "Happy" type =""> Padrona, mi scusi, questa è la mia lettera di dimissioni, la prego di firmarla...</linea>
+		<linea id ="4" charachter = "Ana" mood = "Sad" type ="" >...</linea>
+		<linea id ="5" charachter = "Ana" mood = "Happy" type ="" >NO PADRONA SONO SERIO PER FAVORE HO TROPPA PAURA!</linea>
+		<linea id ="6" charachter = "Ana" mood = "Sad" type ="">Ti imbavaglierei se solo non mi servissi per controllare gli elementi.</linea>
+		<linea id ="7" charachter = "Ana" mood = "Happy" type ="" >Mia padrona mi lasci andare, ne ho abbastanza! Torno a casa!</linea>
+		<linea id ="8" charachter = "Ana" mood = "Sad" type ="End">Pure fifone sei! Stai buono che sicuramente dovremo affrontare qualcosa di grosso…</linea>
+	
+	</Dialogo>
+	
+	<Dialogo id = "5">
+		<linea id ="1" charachter = "Ana" mood = "Happy" type ="">Oddio sembrano Buone! Me le faccia assaggiare padrona!</linea>
+		<linea id ="2" charachter = "Ana" mood = "Sad" type ="">io non capisco cosa ti passa per il cervello, veramente.</linea>
+		<linea id ="3" charachter = "Ana" mood = "Happy" type ="End"> Due secondi fa sembravi terrorizzato e adesso sembri un bambino che ha visto dello zucchero filato...</linea>
+		
+	</Dialogo>
+	
+</Dialoghi>

@@ -1,0 +1,31 @@
+<Dialoghi>
+
+	<Dialogo id = "1">
+		<linea id ="1" charachter = "Skall" mood = "Normal" type ="">A quanto pare siamo saliti un po'...<linea>
+		<linea id ="2" charachter = "Skall" mood = "Normal" type ="">Faccia attenzione a non cadere nei crepacci!<linea>
+		<linea id ="3" charachter = "Skall" mood = "Normal" type ="">Non ho proprio intenzione di farmi male con quelle punte, tranquillo.<linea>
+		<linea id ="4" charachter = "Ana" mood = "Normal" type = "end"></linea>
+		
+	</Dialogo>
+
+	<Dialogo id = "2">
+		<linea id ="1" charachter = "Skall" mood = "Happy" type ="">Oddio sembrano Buone! Me le faccia assaggiare padrona!</linea>
+		<linea id ="2" charachter = "Ana" mood = "Confused" type ="">Io non capisco cosa ti passa per il cervello, veramente.</linea>
+		<linea id ="3" charachter = "Ana" mood = "Confused" type ="">Due secondi fa sembravi terrorizzato e adesso sembri un bambino che ha visto dello zucchero filato...</linea>
+		<linea id ="4" charachter = "Skall" mood = "Normal" type ="">Un’altra cosa visto che adesso possiamo controllare l’aria...</linea>
+		<linea id ="5" charachter = "Skall" mood = "Normal" type ="">Prema B per cambiare l’oggetto da posizionare mentre preme RT!</linea>
+		<linea id ="6" charachter = "Ana" mood = "Normal" type ="">Dovremo passarci sopra in fretta, non sembrano molto resistenti.</linea>
+		<linea id ="7" charachter = "Skall" mood = "Normal" type = "end"></linea>
+		
+	</Dialogo>
+	
+		<Dialogo id = "3">
+		<linea id ="1" charachter = "Skall" mood = "Normal" type ="">Mia padrona! Provi a saltare sopra quegli uccelli.</linea>
+		<linea id ="2" charachter = "Skall" mood = "Happy" type ="">Forse potrebbe riuscire a spiccare  il volo!</linea>
+		<linea id ="3" charachter = "Ana" mood = "Confused" type ="">É una battuta per caso?</linea>
+		<linea id ="4" charachter = "Skall" mood = "Normal" type = "end"></linea>
+		
+	</Dialogo>
+
+
+</Dialoghi>
