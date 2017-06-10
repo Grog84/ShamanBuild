@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497107407,
+	"version": 1497112704,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -76,6 +76,11 @@
 		"images/fireball-sheet0.png",
 		"images/fireeffect-sheet0.png",
 		"images/tiledbackground.png",
+		"images/bckg-sheet0.png",
+		"images/cursor-sheet0.png",
+		"images/spawnpoints-sheet0.png",
+		"images/shark-sheet0.png",
+		"images/crystal-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

@@ -8,7 +8,7 @@
 		<linea id ="4" charachter = "Ana" mood = "Confused" type ="">Non voglio neanche sapere come può sudare un teschio su un bastone...</linea>
 		<linea id ="5" charachter = "Ana" mood = "Normal" type ="">Lasciamo perdere, abbiamo recuperato quasi tutti i cristalli.</linea>
 		<linea id ="6" charachter = "Ana" mood = "Angry" type ="">Tra non molto si pentirà amaramente di ciò che ha fatto!</linea>
-		<linea id ="7" charachter = "Skall" mood = "Sad" type = "end"></linea>
+		<linea id ="7" charachter = "Skall" mood = "Sad" type = "End"></linea>
 		
 	
 	</Dialogo>
@@ -22,7 +22,7 @@
 		<linea id ="4" charachter = "Skall" mood = "Happy" type ="">Ci uniamo? É quasi ora di pranzo dopotutto</linea>
 		<linea id ="5" charachter = "Ana" mood = "Angry" type ="">...</linea>
 		<linea id ="6" charachter = "Skall" mood = "Worried" type ="">Ok, come non detto.</linea>
-		<linea id ="7" charachter = "Skall" mood = "Sad" type = "end"></linea>	
+		<linea id ="7" charachter = "Skall" mood = "Sad" type = "End"></linea>	
 	</Dialogo>
 	
 	
