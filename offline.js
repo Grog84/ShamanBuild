@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497166431,
+	"version": 1497170183,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -75,7 +75,7 @@
 		"images/firecrystal-sheet1.png",
 		"images/fireball-sheet0.png",
 		"images/fireeffect-sheet0.png",
-		"images/tiledbackground.png",
+		"images/vulcano.png",
 		"images/bckg-sheet0.png",
 		"images/cursor-sheet0.png",
 		"images/spawnpoints-sheet0.png",
@@ -86,6 +86,8 @@
 		"images/buttonb-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/spritefont2.png",
+		"images/mountains.png",
+		"images/mountainsbkg.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

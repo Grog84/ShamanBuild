@@ -26799,6 +26799,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.XML.prototype.acts.Load,
 	cr.plugins_.AJAX.prototype.exps.LastData,
 	cr.system_object.prototype.acts.GoToLayout,
+	cr.plugins_.TiledBg.prototype.acts.SetWidth,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
