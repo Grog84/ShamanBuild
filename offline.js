@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497112704,
+	"version": 1497166431,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -81,6 +81,11 @@
 		"images/spawnpoints-sheet0.png",
 		"images/shark-sheet0.png",
 		"images/crystal-sheet0.png",
+		"images/levels.png",
+		"images/buttona-sheet0.png",
+		"images/buttonb-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/spritefont2.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
