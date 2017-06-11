@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497171667,
+	"version": 1497196481,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -70,25 +70,27 @@
 		"images/flamestop-sheet0.png",
 		"images/flameboss-sheet0.png",
 		"images/flameboss-sheet1.png",
-		"images/flameboss-sheet2.png",
 		"images/firecrystal-sheet0.png",
 		"images/firecrystal-sheet1.png",
 		"images/fireball-sheet0.png",
 		"images/fireeffect-sheet0.png",
+		"images/fireeffect-sheet1.png",
 		"images/vulcano.png",
 		"images/bckg-sheet0.png",
 		"images/cursor-sheet0.png",
 		"images/spawnpoints-sheet0.png",
 		"images/shark-sheet0.png",
-		"images/crystal-sheet0.png",
+		"images/watercrystal-sheet0.png",
 		"images/levels.png",
 		"images/buttona-sheet0.png",
 		"images/buttonb-sheet0.png",
-		"images/sprite2-sheet0.png",
+		"images/menucontrols-sheet0.png",
 		"images/spritefont2.png",
 		"images/mountains.png",
 		"images/mountainsbkg.png",
 		"images/forest.png",
+		"images/flamebosshitbox-sheet0.png",
+		"images/cristallo-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -119,6 +121,7 @@
 		"livello2.xml",
 		"livello3.xml",
 		"outro1.xml",
-		"outro2.xml"
+		"outro2.xml",
+		"alberoboss.json"
 	]
 }
