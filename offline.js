@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497170183,
+	"version": 1497171667,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -88,6 +88,7 @@
 		"images/spritefont2.png",
 		"images/mountains.png",
 		"images/mountainsbkg.png",
+		"images/forest.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
